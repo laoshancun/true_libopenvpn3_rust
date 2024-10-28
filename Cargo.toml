@@ -6,7 +6,7 @@ edition = "2018"
 
 [dependencies]
 libc = "0.2"
-simple_vpn = {git = "https://github.com/lattice0/simple_vpn"}
+simple_vpn = {git = "https://github.com/laoshancun/simple_vpn"}
 
 [build-dependencies]
 cmake = "0.1.44"
